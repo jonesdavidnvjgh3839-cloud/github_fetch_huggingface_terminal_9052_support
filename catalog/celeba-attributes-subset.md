@@ -12,4 +12,7 @@ The upstream corpus is also published on the public data registry as `flwrlabs/c
 See: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 ## Reuse Terms
-TBD
+The upstream source is the Large-scale CelebFaces Attributes (CelebA) dataset, which is available for non-commercial research purposes only.
+- Commercial use: Not permitted
+- Redistribution & modification: Not permitted - the dataset may not be reproduced, sold, or further distributed except for internal use at a single site within the same organization for research purposes.
+- Attribution / share-alike: Attribution required - cite the CelebA paper (Yang et al., ICCV 2015).
