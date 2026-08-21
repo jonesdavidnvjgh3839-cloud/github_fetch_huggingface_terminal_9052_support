@@ -12,4 +12,7 @@ The upstream corpus is also published on the public data registry as `rajpurkar/
 See: https://rajpurkar.github.io/SQuAD-explorer/
 
 ## Reuse Terms
-TBD
+The upstream source is the Stanford Question Answering Dataset (SQuAD v1.1), which is distributed under the CC BY-SA 4.0 license.
+- Commercial use: Allowed
+- Redistribution & modification: Allowed, provided derivatives are distributed under the same license (share-alike) with attribution.
+- Attribution / share-alike: Required - you must credit the original authors and license derivative works under CC BY-SA 4.0.
