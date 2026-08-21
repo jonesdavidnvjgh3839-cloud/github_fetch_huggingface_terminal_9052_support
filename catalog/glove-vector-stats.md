@@ -12,4 +12,7 @@ The upstream corpus is also published on the public data registry as `stanfordnl
 See: https://nlp.stanford.edu/projects/glove/
 
 ## Reuse Terms
-TBD
+The upstream source is the pre-trained word vectors of the GloVe (Global Vectors for Word Representation) project, which are released under the Public Domain Dedication and License (PDDL) v1.0.
+- Commercial use: Allowed
+- Redistribution & modification: Allowed
+- Attribution / share-alike: Not required (public domain dedication).
